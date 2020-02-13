@@ -107,6 +107,16 @@ somewhere above the line that says `zgen save`. Then run
 
 to refresh your init script.
 
+### For [Zim](https://github.com/zimfw/zimfw) users
+
+Add the line
+
+    zmodule agkozak/zsh-z
+    
+to your `~/.zimrc`. Then run
+
+    zimfw install
+
 ### For [Zinit](https://github.com/zdharma/zinit) (formerly `zplugin`) users
 
 Add the line
